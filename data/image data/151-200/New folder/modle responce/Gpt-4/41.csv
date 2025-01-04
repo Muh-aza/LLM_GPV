@@ -1,0 +1,20 @@
+Starter,Receptor,Relationship
+TNFα,Death Receptor,activation
+FASL,Death Receptor,activation
+TRAIL,Death Receptor,activation
+Death Receptor,FADD,activation
+FADD,Caspase-8,activation
+Caspase-8,Caspase-3,activation
+Caspase-8,Caspase-7,activation
+Caspase-3,Apoptosis,activation
+Caspase-7,Apoptosis,activation
+Bid,tBid,activation
+tBid,BAX/BAK,activation
+BAX/BAK,MOMP,activation
+MOMP,cyt c,activation
+MOMP,smac,activation
+cyt c,APAF1,activation
+APAF1,Apoptosome,activation
+Apoptosome,Caspase-9,activation
+Caspase-9,Apoptosis,activation
+smac,XIAP,inhibition

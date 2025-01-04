@@ -1,0 +1,10 @@
+Starter,Receptor,Relationship
+miR-590-3p,MST,Inhibition (Indirect)
+SAV,MST,Activation (Direct)
+MST,LATS,Activation (Direct)
+MOB,LATS,Activation (Indirect)
+LATS,YAP,Inhibition (Direct)
+YAP,14-3-3,Activation (Indirect)
+14-3-3,YAP degradation,Activation (Direct)
+YAP,TEAD,Activation (Direct)
+TEAD,"Cell proliferation, Invasion, and metastasis",Activation (Direct)

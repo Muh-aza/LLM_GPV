@@ -1,0 +1,11 @@
+Starter,Receptor,Relationship
+EGF,Src,activation
+Src,FAK,activation
+FAK,RhoA,activation
+RhoA,Stress fibers,activation
+Stress fibers,Cell migration,activation
+DIRAS3,Src,inhibition
+IL-6,STAT3,activation
+STAT3,Transcription of cell adhesion molecules,activation
+Transcription of cell adhesion molecules,Target genes,activation
+DIRAS3,STAT3,inhibition
