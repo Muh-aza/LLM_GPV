@@ -1,0 +1,16 @@
+Starter,Receptor,Relationship
+MK2206,AKT,inhibition
+Sorafenib Resistance,AKT,inhibition
+AKT,PTEN,inhibition
+PTEN,PIP3,inhibition
+PTEN,PIP2,activation
+PTEN,DHHC16,inhibition
+PIP2,PIP3,activation
+DHHC16,Palmitoylation,activation
+Palmitoylation,PCSK9,activation
+CPPtat,Palmitoylation of Endogenous PCSK9,inhibition
+Palmitoylation,PCSK9,inhibition
+PCSK9,Tumor Cell Hydrolysis,inhibition
+PCSK9,Lysosome Hydrolysis,inhibition
+CPPtat-PCSK9,Transcription,activation
+Transcription,Cell Nucleus,activation

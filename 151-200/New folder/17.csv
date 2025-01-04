@@ -1,0 +1,13 @@
+Starter,Receptor,Relation
+DKK4,LRP6,Inhibition
+Wnt,FZD,Activation
+FZD,LRP6,Activation
+LRP6,Axin/GSK3/APC,Inhibition
+Axin/GSK3/APC,B-Catenin,Inhibition
+B-Catenin,Ubiquitination,Activation
+DVL,B-Catenin,Activation
+B-Catenin,LEF-1/TCF (in the nucleus),Activation
+LEF-1/TCF,"Target Genes (Myc, Cyclin D1, Axin2, DKK4, CD44, TCF1)",Activation
+LEF-1/TCF,PITX2,Activation
+NKD1,DVL,Inhibition
+LEF-1,PITX2,Activation

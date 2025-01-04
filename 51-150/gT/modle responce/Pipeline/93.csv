@@ -1,0 +1,9 @@
+Gene1 (Starter),Relationship,Gene2 (Receptor)
+CD36,Activation (direct),AMPK
+AMPK,Activation (direct),Catabolic Pathways
+AMPK,Inhibition (direct),Anabolic Pathways
+AMPK,Inhibition (indirect),Tumor Growth and Invasion
+Glucose,Activation (direct),Cellular Respiration
+Glucose,Activation (direct),Warburg Effect
+NADP+,Activation (direct),NADPH
+AMPK,Inhibition (indirect),Tumor Growth and Invasion

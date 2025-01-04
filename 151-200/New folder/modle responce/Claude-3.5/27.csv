@@ -1,0 +1,15 @@
+Starter,Receptor,Relationship
+HER4-HER3 Dimer,JAK,activation
+HER4-NRG-JAK Dimer,JAK,activation
+JAK,STAT,activation
+STAT,SOCS,activation
+HER4-NRG-JAK Dimer,SHP,activation
+HER4-s80,SHP,activation
+SHP,STAT,inhibition
+HER4-NRG,STAT,activation
+STAT Dimer,PPN,activation
+STAT Dimer,DNA transcription,activation
+SHP,STAT Dimer,inhibition
+SOCS,STAT Dimer,inhibition
+STAT,mRNA,activation
+mRNA,STAT Dimer,activation

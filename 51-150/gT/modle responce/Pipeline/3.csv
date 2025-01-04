@@ -1,0 +1,21 @@
+Starter,Receptor,Relation
+TOB1,EGF receptor,Indirect Inhibition
+EGF receptor,PI3K,Activation
+PI3K,Akt,Activation
+PI3K,PTEN,Inhibition
+PTEN,PI3K,Inhibition
+TOB1,PI3K,Inhibition
+PI3K,ERK/p38MAPK,Activation
+Akt,β-catenin,Inhibition
+Akt,NF-κB (p50/p65),Activation
+ERK/p38MAPK,IκBα,Inhibition
+IκBα,NF-κB (p50/p65),Inhibition
+β-catenin,E-cadherin,Activation
+E-cadherin,MMPs,Inhibition
+γ-catenin,β-catenin,Activation
+α-catenin,β-catenin,Activation
+β-catenin,MMPs,Activation
+β-catenin,Cyclin D1,Activation
+NF-κB (p50/p65),Cyclin D1,Activation
+MMPs,Metastasis,Activation
+Cyclin D1,Tumor growth,Activation
