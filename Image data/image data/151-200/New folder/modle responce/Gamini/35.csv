@@ -1,0 +1,10 @@
+Starter,Receptor,Relationship
+Cdh1,Skp2,activation
+Importin,Skp2,activation
+p300,Skp2,activation
+Skp2,Cdh1,inhibition
+SIRT3,Skp2,inhibition
+SIRT3,Deacetylation,activation
+Deacetylation,Substrates,inhibition
+Skp2,E-cadherin,inhibition
+E-cadherin,Cell Migration,inhibition

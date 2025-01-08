@@ -1,0 +1,21 @@
+Starter,Receptor,Relationship
+PMA,PKC,activation
+PKC,RIPK4,activation
+RIPK4,IKKs,activation
+RIPK4,DVL2,activation
+RIPK4,IRF6,activation
+RIPK4,JNK,activation
+RIPK4,PIP5K1,activation
+PIP5K1,PEBP1,activation
+PEBP1,Raf1,inhibition
+Raf1,Erk,activation
+JNK,GRHL3,activation
+JNK,Erk,activation
+IRF6,GRHL3,activation
+IRF6,TCF/LEF,activation
+IKKs,IκBα,activation
+IκBα,NF-κB,inhibition
+NF-κB,β-catenin,activation
+DVL2,β-catenin,activation
+β-catenin,TCF/LEF,activation
+GRHL3,Epidermal homeostasis and differentiation,activation

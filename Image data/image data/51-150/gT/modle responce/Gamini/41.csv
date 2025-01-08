@@ -1,0 +1,9 @@
+Gene 1,Gene 2,Relationship
+SAV,MST,Activation (Direct)
+MST,LATS,Activation (Direct)
+MOB,LATS,Activation (Direct)
+LATS,YAP (Hippo pathway inhibition),Activation (Direct)
+YAP,TEAD,Activation (Direct)
+TEAD,"Cell proliferation, Invasion and metastasis",Activation (Direct)
+miR-590-3p,MST,Inhibition (Direct)
+14-3-3,YAP (Degradation),Inhibition (Direct)

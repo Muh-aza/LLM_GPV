@@ -1,0 +1,30 @@
+Starter,Receptor,Relationship
+Death receptors,Tradd,activation
+Tradd,Fadd,activation
+Fadd,Casp 8,activation
+Casp 8,Bcl-2,inhibition
+Casp 8,Bax,activation
+Casp 8,Bak,activation
+Casp 8,Bad,activation
+Bax,Mitochondrion,activation
+Bak,Mitochondrion,activation
+Bad,Mitochondrion,activation
+Mitochondrion,Cyt C,activation
+Mitochondrion,AIF,activation
+Mitochondrion,EndoG,activation
+Cyt C,APAF1,activation
+APAF1,Casp 9,activation
+Casp 9,Casp 3,activation
+Casp 3,fragmentation of cytoskeleton and membranes,activation
+Casp 3,fragmentation of DNA,activation
+AIF,fragmentation of DNA,activation
+EndoG,fragmentation of DNA,activation
+Neurotrophin receptors,Rac,activation
+Rac,MEKK,activation
+MEKK,MEK,activation
+MEK,SAPK/JNK/p38,activation
+IRS,PI3-K,activation
+PI3-K,AKT,activation
+AKT,Bax/Bak/Bad,inhibition
+AKT,"many targets (e.g., mTOR)",activation
+p53,gene expression,activation
