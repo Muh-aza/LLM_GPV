@@ -1,0 +1,7 @@
+Starter,Receptor,Relationship
+EpCAM,Ras,Activation (Direct)
+Ras,Raf,Inhibition (Direct)
+Raf,ERK,Activation (Direct)
+ERK,"Fos, Jun",Activation (Direct)
+"Fos, Jun",MMP-9,Inhibition (Indirect)
+MMP-9,"Proliferation, Colony formation, Migration, Adhesion",Activation (Direct)

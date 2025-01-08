@@ -1,0 +1,12 @@
+Starter,Receptor,Relationship
+DKK4,Wnt,Inhibition (Indirect)
+Wnt,FZD,Activation (Direct)
+LRP6,B-Catenin,Activation (Direct)
+GSK3/APC/Axin,Ubiquitination,Inhibition (Indirect)
+B-Catenin,LEF-1,Activation (Direct)
+DVL,NKD1,Activation (Direct)
+NKD1,B-Catenin,Inhibition (Indirect)
+B-Catenin,TCF,Activation (Direct)
+B-Catenin,LEF-1,Activation (Direct)
+LEF-1,PITX2,Activation (Direct)
+PITX2,LEF-1,Activation (Direct)

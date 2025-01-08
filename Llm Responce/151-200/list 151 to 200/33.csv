@@ -1,0 +1,28 @@
+Starter,Receptor,Relationship
+HBx,PPM1A,activation
+HCV NS3,PPM1A,activation
+TRIM25,PPM1A,activation
+TβRI,Smad complex,activation
+TβRII,Smad complex,activation
+PPM1A,Smad complex,inhibition
+TIF1γ,Smad complex,inhibition
+NEK6,Smad complex,inhibition
+FHL1,linker region phosphorylation of R-Smads,activation
+NCX1,linker region phosphorylation of R-Smads,activation
+TRPC6,linker region phosphorylation of R-Smads,activation
+ELF,linker region phosphorylation of R-Smads,activation
+GRK2,JNK,activation
+IL-37,JNK,inhibition
+TNF-α,JNK,activation
+IL-1β,JNK,activation
+JNK,TF,inhibition
+Smad complex,PPAR-γ,activation
+Smad complex,CXXC5,inhibition
+Smad complex,KLF17,inhibition
+Smad complex,FoxO3,inhibition
+SRF,PPAR-γ,inhibition
+HCV core,PPAR-γ,inhibition
+EVI,PPAR-γ,inhibition
+cPLA2α,PPAR-γ,inhibition
+TF,Co-activator,activation
+Co-activator,gene expression,activation

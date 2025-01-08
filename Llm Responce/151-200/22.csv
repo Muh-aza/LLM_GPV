@@ -1,0 +1,10 @@
+Starter,Receptor,Relation
+LC,PLGF,Activation
+PLGF,ERK/MAPK,Activation
+ERK/MAPK,MMP3,Activation
+PLGF,VEGFR1,Activation
+VEGFR1,TGFβ1,Activation
+TGFβ1,Polarization,Activation
+Polarization,MMP9,Activation
+LC,Metastasis,Activation
+Macrophages,Metastasis,Activation

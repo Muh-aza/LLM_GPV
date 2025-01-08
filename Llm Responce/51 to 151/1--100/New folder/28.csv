@@ -1,0 +1,8 @@
+Start,Receiver,Relationship
+PSMA,Wogonin,Activation
+Wogonin,Bcl-2,Inhibition
+Wogonin,Bax,Activation
+Bcl-2,Cyto.C,Inhibition
+Bax,Cyto.C,Activation
+Cyto.C,Caspase-3/9,Activation
+Caspase-3/9,Apoptosis,Activation

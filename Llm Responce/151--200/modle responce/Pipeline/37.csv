@@ -1,0 +1,10 @@
+Starter,Receptor,Relationship
+LPS,iNOS,activation
+Cytokine production,iNOS,activation
+GSTP1,iNOS,inhibition
+iNOS,NO,activation
+NO,MRP1,activation
+MRP1,Transport,activation
+GSH,DNIC,activation
+GSTP1,Storage,activation
+Labile iron pool,Fe^2+,activation
