@@ -1,8 +1,0 @@
-Gene 1,Gene 2,Relationship
-STAT3,VEGF,Activation (Direct)
-HIF-1α,VEGF,Activation (Direct)
-miRNA,VEGF,Activation (Direct)
-VEGF,VEGFR2,Activation (Direct)
-iNOS,NO,Activation (Direct)
-nNOS,NO,Activation (Direct)
-eNOS,NO,Activation (Direct)

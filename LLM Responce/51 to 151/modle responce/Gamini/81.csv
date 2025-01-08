@@ -1,9 +1,0 @@
-Starter,Receptor,Relationship
-TGF-β,TβR,Activation (Direct)
-TβR,SMAD2/3,Activation (Direct)
-SARA,SMAD2/3,Activation (Direct)
-SMAD2/3,SMAD4,Activation (Direct)
-SMAD2/3,SMAD4,Activation (Direct)
-SMAD2/3,SMAD4,Activation (Direct)
-SMAD4,Proliferation/CSCs expansion/EMT/Apoptosis,Activation (Direct)
-SIX1/EYA,DACH1,Inhibition (Direct)

@@ -1,8 +1,0 @@
-Starter,Receptor,Relation
-Myc,miR-22,Activation
-miR-22,PTEN,Inhibition
-miR-22,TET,Inhibition
-PTEN,PI3K/AKT,Inhibition
-TET,Gene Expression (OFF),Inhibition
-PI3K/AKT,Tumorigenesis/Metastasis,Activation
-Gene Expression (OFF),Tumorigenesis/Metastasis,Activation

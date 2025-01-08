@@ -1,9 +1,0 @@
-Starter,Receptor,Relationship
-Nitroxoline,AMPK,Activation (Direct)
-AMPK,mTOR,Inhibition (Direct)
-AMPK,Autophagy,Activation (Direct)
-DNA damage,Chk2,Activation (Direct)
-Chk2,Apoptosis,Activation (Direct)
-Chk2,Cyclin D1,Inhibition (Indirect)
-Cyclin D1,Rb,Activation (Indirect)
-Rb,G1 arrest,Activation (Direct)
