@@ -1,0 +1,13 @@
+Gene 1,Gene 2,Relationship
+HER2,Activated HER2,Activation (Direct)
+Activated HER2,RAS,Activation (Direct)
+Activated HER2,AKT,Activation (Direct)
+AKT,Proliferation,Activation (Direct)
+HER2,HER2 expression,Activation (Direct)
+Polyphenols,HER2 activation,Inhibition (Direct)
+Polyphenols,HER2 degradation,Inhibition (Direct)
+Polyphenols,FAS expression,Inhibition (Direct)
+Polyphenols,Antiapoptotic proteins,Inhibition (Direct)
+Polyphenols,RAS,Inhibition (Direct)
+Polyphenols,FASN,Inhibition (Direct)
+Hsp90,HER2 degradation,Inhibition (Direct)
