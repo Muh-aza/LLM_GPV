@@ -1,9 +1,0 @@
-Gene 1,Relationship,Gene 2
-Prx II,Activation,ROS
-ROS,Activation,MAP kinase cascade
-MAP kinase cascade,Activation,JNK
-JNK,Activation,Phospho-JNK
-Phospho-JNK,Activation,c-Jun
-c-Jun,Activation,Cell survival
-c-Jun,Activation,Tumor proliferation
-c-Jun,Inhibition,DNA damage-induced cell death

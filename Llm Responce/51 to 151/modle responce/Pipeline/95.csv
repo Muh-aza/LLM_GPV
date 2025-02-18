@@ -1,8 +1,0 @@
-Gene1 (Starter),Relationship,Gene2 (Receptor)
-RTKs,activates,PI3K
-PI3K,activates,PIP3
-PIP3,inhibits,PTEN
-mTOR,activates,PIP3
-mTOR,activates,AKT
-HIF-1,activates,Angiogenesis
-mTORC1,activates,"Protein synthesis, Proliferation, Anti-apoptosis, Metabolism"

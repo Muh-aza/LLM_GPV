@@ -1,7 +1,0 @@
-Starter,Receptor,Relationship
-PLGF,ERK/MAPK,Inhibition (Direct)
-ERK/MAPK,MMP3,Inhibition (Direct)
-PLGF,VEGFR1,Activation (Indirect)
-VEGFR1,TGFβ1,Inhibition (Indirect)
-TGFβ1,polarization,Activation (Direct)
-TGFβ1,MMP9,Activation (Direct)

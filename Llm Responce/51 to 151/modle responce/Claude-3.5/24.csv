@@ -1,8 +1,0 @@
-Starter,Receptor,Relation
-RANKL,RANK,Activation
-RANK,Src,Activation
-Src,ERK,Activation
-Src,AKT,Activation
-Cbl-b,Src,Inhibition
-ERK,Tumor migration and metastasis,Activation
-AKT,Tumor migration and metastasis,Activation
