@@ -1,9 +1,0 @@
-Starter,Receptor,Relationship
-RTK,βCat^WT,activation
-Cadherin,βCat^mut,activation
-βCat^WT,Destruction Complex,activation
-Destruction Complex,Proteasome degradation,activation
-PTP,βCat^WT,inhibition
-Destruction Complex,βCat^mut,inhibition
-βCat^mut,TCF,activation
-TCF,AXIN2,activation

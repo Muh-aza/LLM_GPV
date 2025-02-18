@@ -1,9 +1,0 @@
-Starter,Receptor,Relationship
-Aurora A,Plk1,Activation (Direct)
-MEK,ERK (Gastric CSC-like cell),Activation (Direct)
-ERK,RSK1 (Gastric CSC-like cell),Inhibition (Indirect)
-RSK1,Sphere formation of CSC-like cell,Activation (Direct)
-Plk1,Sphere formation of CSC-like cell,Activation (Direct)
-MEK,ERK (Gastric cancer cell),Activation (Direct)
-ERK,RSK1 (Gastric cancer cell),Activation (Direct)
-Plk1,Cancer cell proliferation,Activation (Direct)

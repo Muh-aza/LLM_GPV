@@ -1,7 +1,0 @@
-Starter,Receptor,Relationship
-p53,p21,Inhibition
-Cyclin E,CDK2,Activation
-Cyclin D,CDK4/6,Activation
-CDK1,CDK1,Activation
-Cyclin A,CDK2,Activation
-CDK2,Cyclin A,Activation

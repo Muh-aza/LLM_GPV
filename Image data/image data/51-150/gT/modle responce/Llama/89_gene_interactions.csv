@@ -1,8 +1,0 @@
-Starter,Receptor,Relationship
-Pectolinarigenin,PTEN,Activation (Direct)
-PTEN,AKT,Inhibition (Direct)
-PI3K,AKT,Activation (Direct)
-AKT,Migration/Invasion,Activation (Direct)
-AKT,Proliferation,Activation (Direct)
-AKT,Apoptosis,Inhibition (Direct)
-p53,AKT,Inhibition (Direct)

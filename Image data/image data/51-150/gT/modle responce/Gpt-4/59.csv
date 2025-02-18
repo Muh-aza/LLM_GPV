@@ -1,9 +1,0 @@
-Gene1,Relationship,Gene2
-PG,Inhibits,ROS
-PG,Inhibits,PTEN
-PG,Activates,TOB-1
-ROS,Activates,SOD1
-TOB-1,Inhibits,PTEN
-PTEN,Inhibits,AKT
-p53,Inhibits,Cyclin D
-p53,Activates,Cyclin D

@@ -1,8 +1,0 @@
-Starter,Receptor,Relationship
-Wogonin,Bcl-2,Inhibition (Direct)
-Wogonin,Bax,Activation (Direct)
-Wogonin,Caspase-3/9,Activation (Direct)
-Bcl-2,Cyto.C,Inhibition (Indirect)
-Bcl-2,Caspase-3/9,Activation (Direct)
-Bax,Caspase-3/9,Activation (Direct)
-Cyto.C,Apoptosis,Activation (Direct)
