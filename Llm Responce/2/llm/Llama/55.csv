@@ -1,0 +1,12 @@
+Gene 1,Gene 2,Relationship
+GF,IRS,Activation (Direct)
+IRS,PI3K,Activation (Direct)
+PI3K,PIP3,Activation (Direct)
+PIP3,PDK1,Activation (Direct)
+PDK1,AKT/PKB,Activation (Direct)
+mTORC1,S6K1,Activation (Direct)
+mTORC1,4E-BP1,Activation (Direct)
+mTORC2,AKT/PKB,Activation (Direct)
+PTEN,PIP3,Inhibition (Direct)
+TSC1/TSC2,mTORC1,Inhibition (Direct)
+Rapamycin,mTORC1,Inhibition (Direct)

@@ -1,0 +1,12 @@
+Gene1,Relationship,Gene2
+RTK,activates,RAS
+RAS,activates,CRAF
+RAS,activates,BRAF
+BRAF,activates,MEK
+MEK,activates,ERK
+ERK,activates,c-JUN
+ERK,activates,c-FOS
+ERK,activates,ELK
+ERK,activates,ETS
+Sprouty,inhibits,RTK
+Sprouty,inhibits,MEK

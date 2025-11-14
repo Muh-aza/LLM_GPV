@@ -1,0 +1,8 @@
+Gene 1,Gene 2,Relationship
+Pectolinarigenin,PTEN,Activation (Direct)
+PTEN,AKT,Activation (Direct)
+PI3K,AKT,Activation (Direct)
+AKT,Proliferation,Activation (Direct)
+AKT,Migration/Invasion,Activation (Direct)
+AKT,Apoptosis,Activation (Direct)
+p53,AKT,Inhibition (Direct)

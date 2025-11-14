@@ -1,0 +1,8 @@
+gene1,relationship,gene2
+InsP6,inhibits,AKT
+AKT,activates,CASP9
+CASP9,activates,CASP3
+AKT,inhibits,mTOR
+mTOR,inhibits,p70S6K
+AKT,activates,p27
+AKT,activates,p21

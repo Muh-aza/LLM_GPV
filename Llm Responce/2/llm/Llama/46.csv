@@ -1,0 +1,7 @@
+Gene 1,Gene 2,Relationship
+CaSR,+cAMP,Activation (Direct)
++cAMP,PTHRP,Activation (Direct)
+PTHRP,p27,Activation (Direct)
+PTHRP,AIF,Activation (Direct)
+PTHRP,AIF,Inhibition (Direct)
+PTHRP,PTHRP,Activation (Indirect)

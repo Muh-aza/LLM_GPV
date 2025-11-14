@@ -1,0 +1,4 @@
+Gene 1,Gene 2,Relationship
+TGF-β1,HDAC3,Activation (Direct)
+RUNX2,Metastasis,Activation (Direct)
+HDAC3,ANCR,Inhibition (Direct)

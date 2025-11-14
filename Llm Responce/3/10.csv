@@ -1,0 +1,22 @@
+Starter,Receptor,Relation
+DNA damage,ATM,Activation
+DNA damage,ATR,Activation
+ATM,p53,Activation
+ATR,p53,Activation
+Oncogene signaling,p14ARF,Activation
+Replication stress,p14ARF,Activation
+p14ARF,MDM2,Inhibition
+MDM2,p53,Inhibition
+p53,p21,Activation
+p53,Bax,Activation
+Twist,p16,Inhibition
+p16,Rb,Activation
+Twist,p14ARF,Inhibition
+Twist,p21,Inhibition
+Twist,NF-κB,Activation
+NF-κB,Twist,Activation
+NF-κB,YB-1,Activation
+NF-κB,AKT2,Activation
+YB-1,AKT2,Activation
+AKT2,Cellular proliferation/Resistance to chemotherapy,Activation
+Myc,Cellular proliferation/Resistance to chemotherapy,Activation

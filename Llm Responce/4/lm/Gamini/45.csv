@@ -1,0 +1,17 @@
+Starter,Receptor,Relationship
+Globular adiponectin,AdipoR1,activation
+AdipoR1,DAPK1,activation
+AdipoR1,PP1/PP2A,activation
+AMPKα1,FoxO3A,activation
+FoxO3A,TTP,activation
+TTP,Bcl-2 gene,inhibition
+Bcl-2 gene,Bcl-2 mRNA,inhibition
+Bcl-2 transcript instability,Bcl-2 gene,inhibition
+Bcl-2 decrease,Bcl-2 mRNA,inhibition
+Bcl-2 decrease,Autophagosome,indirect activation
+Beclin-1,Autophagosome,activation
+LPS,TLR4,activation
+TLR4,TRAF6,activation
+TRAF6,NF-κB,activation
+NF-κB,IL-1β,activation
+NF-κB,TNF-α,activation

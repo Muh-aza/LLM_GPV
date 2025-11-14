@@ -1,0 +1,11 @@
+Starter,Receptor,Relationship
+PI3K,AKT,Activation (Direct)
+AKT,BMX,Activation (Indirect)
+BMX,STAT3,Activation (Indirect)
+STAT3,Cell proliferation,Activation (Direct)
+Cell proliferation,Tumor progression,Activation (Direct)
+Cell cycle,Cell proliferation,Activation (Direct)
+MK-2206,AKT,Inhibition (Direct)
+Rapamycin,mTOR,Inhibition (Direct)
+mTOR,Cell proliferation,Inhibition (Direct)
+Cryptotanshinone,STAT3,Inhibition (Direct)

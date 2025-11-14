@@ -1,0 +1,18 @@
+Starter,Receptor,Relation
+LAB,Intrinsic pathway,Activation
+LAB,Extrinsic pathway,Activation
+Chemotherapy/Radiotherapy,Intrinsic pathway,Activation
+Fas/TNF receptor,"Caspase 8,10",Activation
+FLIP,"Caspase 8,10",Inhibition
+"Caspase 8,10","Caspase 3,6,7",Activation
+Cell injury,NF-κB,Activation
+NF-κB,Bcl-2,Activation
+NF-κB,Bcl-xl,Activation
+NF-κB,"Caspase 8,10",Activation
+Bcl-2/Bcl-xl,Bak,Inhibition
+Bak,Mitochondria,Activation
+Mitochondria,Cytochrome C,Activation
+Cytochrome C,Caspase 9,Activation
+Caspase 9,"Caspase 3,6,7",Activation
+IAP,"Caspase 3,6,7",Inhibition
+"Caspase 3,6,7",Apoptosis,Activation

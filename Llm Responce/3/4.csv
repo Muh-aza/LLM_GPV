@@ -1,0 +1,16 @@
+Starter,Receptor,Relation
+X-RAY,Cytokine Receptor/Growth Factor Receptor,Activation
+Cytokine Receptor/Growth Factor Receptor,Sphk1,Phosphorylation
+Sphk1,S1P,Activation
+S1P,S1P Receptor,Activation
+FTY720,S1P,Inhibition
+S1P Receptor,G1,Activation
+S1P Receptor,RAS,Activation
+S1P Receptor,PI3K,Activation
+S1P Receptor,AKT,Activation
+G1,RAS,Activation
+RAS,ERK,Activation
+ERK,Proliferation,Activation
+PI3K,AKT,Activation
+AKT,mTOR,Activation
+mTOR,Autophagy/Apoptosis,Activation

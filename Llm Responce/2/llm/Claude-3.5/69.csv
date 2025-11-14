@@ -1,0 +1,12 @@
+Starter,Receptor,Relationship
+EGFR,PI3K,Inhibition (Direct)
+PI3K,AKT,Activation (Indirect)
+AKT,mTOR,Activation (Indirect)
+mTOR,Cell growth & proliferation,Activation (Direct)
+EGFR,Grb2,Activation (Indirect)
+Grb2,Sos,Activation (Indirect)
+Sos,RAS,Activation (Indirect)
+RAS,RAF,Activation (Indirect)
+RAF,MEK,Activation (Direct)
+MEK,ERK,Inhibition (Direct)
+ERK,Cell growth & proliferation,Activation (Direct)

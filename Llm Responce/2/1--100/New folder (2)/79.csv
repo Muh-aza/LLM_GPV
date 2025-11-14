@@ -1,0 +1,13 @@
+Starter,Receptor,Relationship
+GPCR,Rho,Inhibition (Indirect)
+RTK,MEK1/2,Activation (Direct)
+Rho,ROCK1/2,Inhibition (Direct)
+NF2,LATS1/2,Inhibition (Direct)
+MEK1/2,ERK1/2,Activation (Direct)
+ROCK1/2,YAP,Inhibition (Direct)
+ROCK1/2,LATS1/2,Inhibition (Direct)
+LATS1/2,YAP,Inhibition (Direct)
+LATS1/2,TEAD,Activation (Direct)
+ERK1/2,YAP,Activation (Direct)
+YAP,TEAD,Activation (Direct)
+TEAD,CTGF/Cyr61,Activation (Direct)

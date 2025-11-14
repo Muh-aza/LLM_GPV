@@ -1,0 +1,22 @@
+Starter,Receptor,Relationship
+IL-6,HSP27,activation
+HSP27,STAT3,activation
+Hedgehog,PTCH1,activation
+Wnt,Frizzled,activation
+Frizzled,β-catenin,activation
+RTK,Ras,activation
+Ras,MEK,activation
+MEK,ERK,activation
+RTK,PI3K,activation
+PI3K,Akt,activation
+Akt,Pten,inhibition
+E-cadherin,N-cadherin,inhibition
+N-cadherin,Vimentin,inhibition
+Vimentin,Transcription,indirect inhibition
+AR,Zeb1,activation
+AR,Slug,activation
+AR,Twist,activation
+Transcription,Sox2,activation
+Transcription,Nanog,activation
+Transcription,Bmi-1,activation
+Transcription,NKX3.1,inhibition

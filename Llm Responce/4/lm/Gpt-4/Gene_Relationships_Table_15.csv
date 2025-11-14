@@ -1,0 +1,5 @@
+gene1,relationship,gene2
+PTEN,inhibits,PI3K
+SOCS,inhibits,JAK2
+AXIN,activates,β-Catenin
+APC,activates,GSK3β

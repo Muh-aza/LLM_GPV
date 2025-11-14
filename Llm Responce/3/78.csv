@@ -1,0 +1,13 @@
+Starter,Receptor,Relationship
+IL-4,IL-4Rα,Activation (Direct)
+IL-13,IL-13Rα1,Activation (Direct)
+IL-4Rα,JAK1,Activation (Direct)
+IL-13Rα1,JAK1,Activation (Direct)
+JAK1,STAT6,Activation (Direct)
+STAT6,NOX1L/S mRNA,Activation (Direct)
+NOX1L/S mRNA,Transcription,Activation (Direct)
+GATA3,NOX1 promoter,Inhibition (Indirect)
+NOX1L/S,ROS,Activation (Direct)
+ROS,Protein tyrosine phosphatase,Inhibition (Direct)
+Protein tyrosine phosphatase,Cyclin D3,Inhibition (Indirect)
+Cyclin D3,Cell cycle regulation,Activation (Direct)

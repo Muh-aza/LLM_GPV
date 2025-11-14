@@ -1,0 +1,30 @@
+Starter,Receptor,Relation
+GF,GFR,Activation
+GFR,PI3K,Activation
+miR-29a,PI3K,Inhibition
+PI3K,PIP3,Activation
+PTEN,PIP3,Inhibition
+PIP3,PDK1,Activation
+PDK1,PKB/Akt,Activation
+PKB/Akt,MDM2,Activation
+MDM2,p53,Inhibition
+miR-24,p53,Inhibition
+miR-24,MDM2,Activation
+miR-145,CREB,Inhibition
+miR-145,CBP,Inhibition
+CREB,β-Catenin,Activation
+CBP,TCF/LEF,Activation
+Ras,Raf,Activation
+Raf,MEK,Activation
+MEK,ERK,Activation
+GSK3,β-Catenin,Inhibition
+IKK,IκB,Inhibition
+IκB,NF-κB,Activation
+NF-κB,Cell Survival,Activation
+mTOR,Tumor Growth,Activation
+CDK2,Cyclin E,Inhibition
+Cyclin E,p27,Inhibition
+Rb,E2F,Activation
+E2F,G1/S Progression,Activation
+β-Catenin,Cell Proliferation,Activation
+TCF/LEF,Cell Proliferation,Activation

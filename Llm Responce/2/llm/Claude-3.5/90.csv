@@ -1,0 +1,15 @@
+Gene1,Relationship,Gene2
+BMP2,Activation,PDK1
+PDK1,Activation,AKT
+PDK1,Activation,GSK3β
+BMP2,Activation,MST1/2
+RASSF1,Activation,MST1/2
+MST1/2,Activation,LATS1/2
+LATS1/2,Inhibition,YAP
+YAP,Activation,TEAD
+BMP2,Activation,Smad1/5/8
+Smad1/5/8,Activation,p53
+p53,Activation,p21
+AKT,Inhibition,GSK3β
+GSK3β,Inhibition,Cyclin D1
+Cyclin D1,Activation,p21

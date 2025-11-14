@@ -1,0 +1,11 @@
+Starter,Receptor,Relationship
+RACK1,STAT1,Activation (Direct)
+RACK1,p53,Activation (Direct)
+RACK1,NF-kB,Activation (Direct)
+p53,p38,Activation (Direct)
+p53,p21,Activation (Direct)
+p21,Cyclin D1,Activation (Direct)
+STAT1,Cyclin D1,Activation (Direct)
+STAT1,NF-kB,Activation (Direct)
+NF-kB,Cyclin D1,Activation (Direct)
+Cyclin D1,CDk4,Activation (Direct)

@@ -1,0 +1,7 @@
+Gene 1,Gene 2,Relationship
+SP1,MDM2,Activation (Direct)
+MDM2,E2F1,Activation (Direct)
+MDM2,pRb,Activation (Direct)
+Fulvestrant,ER,Inhibition (Direct)
+shRNA,MDM2,Inhibition (Direct)
+Estrogen,MDM2,Activation (Indirect)

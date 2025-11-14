@@ -1,0 +1,9 @@
+Gene 1,Gene 2,Relationship
+ZIP1,PI3K,Activation (Direct)
+PI3K,PDK,Activation (Direct)
+PDK,Akt,Activation (Direct)
+Akt,CDK4,Activation (Direct)
+PTEN,PI3K,Inhibition (Direct)
+p21,CDK4,Inhibition (Direct)
+Akt,p21,Activation (Indirect)
+p21,PCNA,Activation (Indirect)

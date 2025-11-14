@@ -1,0 +1,20 @@
+Starter,Receptor,Relationship
+C1 complex,C4d,activation
+HLA,Src,activation
+HLA,FAK,activation
+Src,MEK,activation
+FAK,PI3K,activation
+PI3K,Akt,activation
+Akt,mTORC1,activation
+Akt,mTORC2,activation
+MEK,ERK,activation
+mTORC1,PRAS40,activation
+mTORC1,S6K,activation
+mTORC1,S6RP,activation
+ERK,"Cell proliferation, protein translation",activation
+PI3K,"Cell migration, Cell survival",activation
+mTORC2,"Cell migration, Cell survival",activation
+ERK,"Tissue factor MCP1, RANTES",activation
+PI3K,by LY294001,inhibition
+mTORC2,by MK-2206,inhibition
+mTORC1,by Rapamycin,inhibition
