@@ -64,11 +64,15 @@ You can add a GIF or video demo here:
 
 ## 📖 Citation
 
+```bibtex
 @article{Azam2025LLMGPV,
   title={Applications of Large Language Models and Prompt Optimization for Knowledge Extraction from Biological Pathway Figures},
   author={Muhammad Azam and Shuai Zeng and Hasanain Aldihis and Mihail Popescu and Dong Xu},
   journal={IEEE Journal of Biomedical and Health Informatics},
   year={2025},
+  note={DOI: 10.1109/JBHI.2025.3631538}
+}
+```
   note={DOI: 10.1109/JBHI.2025.3631538}
 }
 
