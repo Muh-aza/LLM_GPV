@@ -64,8 +64,6 @@ You can add a GIF or video demo here:
 
 ## 📖 Citation
 
-If you use LLM-GPV in your research, please cite:
-
 @article{Azam2025LLMGPV,
   title={Applications of Large Language Models and Prompt Optimization for Knowledge Extraction from Biological Pathway Figures},
   author={Muhammad Azam and Shuai Zeng and Hasanain Aldihis and Mihail Popescu and Dong Xu},
